@@ -1,2 +1,1 @@
-# peking-university-ai-lecture
-北大AI讲座
+# 北大AI讲座
